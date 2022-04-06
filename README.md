@@ -1,5 +1,5 @@
 # Python Assignments
-Repository to keep track of all my python assignments given by university
+Repository to keep track of all python assignments given by university
 
 
 ## Contributing
